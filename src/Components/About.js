@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import CV from "../CV.pdf";
 
 class About extends Component {
   render() {
@@ -40,7 +41,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <a href = {CV} target = "_blank" className="button">Download CV</a>
                   </p>
                </div>
             </div>
