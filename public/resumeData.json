@@ -43,18 +43,32 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "location":"San Francisco",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Twine",
+        "title":"Backend Engineer (Internship)",
+        "years":"Sep 2019 - Dec 2019",
+        "location":"San Francisco, USA",
+        "description":"Ruby on Rails"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "location":"San Francisco",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Cisco Meraki",
+        "title":"Mobile Developer (Internship)",
+        "years":"Jan 2019 - Apr 2019",
+        "location":"San Francisco, USA",
+        "description":"React Native w/ Redux, Typescript, Ruby"
+      },
+      {
+        "company":"Flextrack Inc.",
+        "title":"Fullstack Engineer (Internship)",
+        "years":"May 2018 - Aug 2018",
+        "location":"Toronto, Canada",
+        "description":"AngularJS, Typescript, C#"
+      },
+      {
+        "company":"Freshbooks",
+        "title":"iOS Developer (Internship)",
+        "years":"Sep 2017 - Dec 2017",
+        "location":"Toronto, Canada",
+        "description":"Swift"
       }
     ],
     "skills":[
