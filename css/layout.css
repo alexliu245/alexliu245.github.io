@@ -250,17 +250,22 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume h1 span {
    border-bottom: 3px solid #11ABB0;
-   padding-bottom: 6px;
 }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
+}
+#resume div {
+   margin-bottom: 24px;
+}
+#resume p {
+   margin-bottom: 6px;
 }
 
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
 .education, .work {
-   margin-bottom: 48px;
+   margin-bottom: 24px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
