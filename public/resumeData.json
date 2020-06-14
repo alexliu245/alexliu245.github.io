@@ -14,7 +14,6 @@
       "zip": "N9G2P8"
     },
     "website": "https://alexliu245.github.io",
-    "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"linkedin",
@@ -23,12 +22,12 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/alexliu245",
         "className":"fa fa-github"
       },
       {
         "name":"facebook",
-        "url":"facebook.com/alex.liu.507027",
+        "url":"https://facebook.com/alex.liu.507027",
         "className":"fa fa-facebook"
       }
     ]
