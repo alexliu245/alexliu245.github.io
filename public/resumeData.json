@@ -102,10 +102,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"TeamParking",
+        "category":"A prototype for a crowdsourcing parking app I made at HackWestern2017. Made with ReactJS and MongoDB.",
+        "image":"teamparking.jpg",
+        "url":"https://github.com/alexliu245/teamparking-hackWestern"
+      },
+      {
+        "title":"HeroGame",
+        "category":"MOBA-esque game that I made with some friends in high school. Made with Java.",
+        "image":"herogame.png",
+        "url":"https://github.com/alexliu245/HeroGame"
       }
     ]
   }
