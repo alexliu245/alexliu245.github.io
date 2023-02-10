@@ -1,0 +1,78 @@
+.GameBoard {
+  border: 1px solid black;
+}
+
+.GameBoard-row {
+  display: flex;
+}
+
+.GameBoard-cell {
+  height: 64px;
+  width: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+}
+
+@keyframes GameBoard-cellSpawn {
+  from {
+    scale: 0;
+  }
+  to {
+    scale: 1;
+  }
+}
+
+.GameBoard-cell--new {
+  animation: GameBoard-cellSpawn 0.25s ease-out;
+}
+
+.GameBoard-cell--0 {
+  background-color: rgb(255, 255, 255);
+}
+
+.GameBoard-cell--2 {
+  background-color: rgb(255, 235, 235);
+}
+
+.GameBoard-cell--4 {
+  background-color: rgb(255, 213, 213);
+}
+
+.GameBoard-cell--8 {
+  background-color: rgb(255, 192, 192);
+}
+
+.GameBoard-cell--16 {
+  background-color: rgb(255, 171, 171);
+}
+
+.GameBoard-cell--32 {
+  background-color: rgb(255, 149, 149);
+}
+
+.GameBoard-cell--64 {
+  background-color: rgb(255, 128, 128);
+}
+
+.GameBoard-cell--128 {
+  background-color: rgb(255, 107, 107);
+}
+
+.GameBoard-cell--256 {
+  background-color: rgb(255, 85, 85);
+}
+
+.GameBoard-cell--512 {
+  background-color: rgb(255, 64, 64);
+}
+
+.GameBoard-cell--1024 {
+  background-color: rgb(255, 21, 21);
+}
+
+.GameBoard-cell--2048 {
+  background-color: rgb(255, 0, 0);
+  color: white;
+}
